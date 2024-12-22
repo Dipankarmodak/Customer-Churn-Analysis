@@ -1,1 +1,1 @@
-# Customer_RFM_analysis
+# Churn Analysis based on RFM( Recency Frequency, Monetary)
